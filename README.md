@@ -16,12 +16,4 @@
 
 Basic non-automated manual browser test aka no test :P
 
-## Contributors
 
-Standing on the shoulders of all the giants before me.
-
-## Contact
-#### sorcererizza
-* E-mail: izzaannsamax@gmail.com
-
-**
